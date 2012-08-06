@@ -11,7 +11,7 @@ The following `.tex` files are included:
  - `title.tex`: Title page and TOC
  - `main.tex`: The main file that pulls together all parts
 
-Additionally, a LaTeX compatible `.gitignore` file is provided.
+Additionally, a LaTeX compatible `.gitignore` file and a useful Makefile are provided.
 
 It is also recommended to create an alias for `git diff --color-words`:
 
