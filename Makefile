@@ -13,7 +13,6 @@ clean:
 cleanall:
 	rm -f *.toc *.pdf *.aux *.log *.out
 
-.PHONY: all pdf clean cleanall
-.SILENT: pdf
+.PHONY: all clean cleanall
 
 # vim: set tabstop=4 shiftwidth=4 noexpandtab:
